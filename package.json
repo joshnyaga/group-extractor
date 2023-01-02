@@ -1,0 +1,20 @@
+{
+  "name": "group-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
+    "remove-duplicate-lines": "^0.1.1",
+    "whatsapp-web.js": "^1.18.4"
+  }
+}

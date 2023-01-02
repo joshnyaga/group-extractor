@@ -1,0 +1,10 @@
+/node_modules/*
+/.wwebjs_auth/*
+/contact.txt
+/contact2.txt
+/number.csv
+/numbers.csv
+/numbers.txt
+/array.json
+/array.txt
+/test.txt
